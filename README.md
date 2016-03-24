@@ -25,4 +25,7 @@
 
 --Thinking about final project... Might try to develop an app that tracks your stock investments updating them with current price, most recent trade, graphs, your investment, and your profit/loss (i.e. today, this week, this month, last 3 months, last 6 months, last year, last 2 years, etc.)
 
-----This would involve learning Swift, pandas, and maybe some other programs
+----This would involve learning Swift, pandas, NumPy and maybe some other programs
+
+##Thurs. March 24th
+--Going through Python for Finance book with highlights from my dad
