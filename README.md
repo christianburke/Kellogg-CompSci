@@ -20,3 +20,5 @@
 
 ##Wed. March 23rd
 --CodeAcademy for JavaScript
+--Went through the Python for Finance book with my dad; he highlighted the important sections for standard econ
+--Thinking about final project... Might try to develop an app that tracks your stock investments updating them with current price, most recent trade, graphs, your investment, and your profit/loss (i.e. today, this week, this month, last 3 months, last 6 months, last year, last 2 years, etc.)
