@@ -29,3 +29,10 @@
 
 ##Thurs. March 24th
 --Going through Python for Finance book with highlights from my dad
+
+##Sun. March 27th
+--Continuing Python for Finance book
+
+--Looking for an online course so I can begin coding some of this stuff
+
+--Looking for a good online course so I can learn swift as well
