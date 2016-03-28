@@ -36,3 +36,6 @@
 --Looking for an online course so I can begin coding some of this stuff
 
 --Looking for a good online course so I can learn swift as well
+
+##Mon. March 28th 
+--Working on Swift (Stanford)
