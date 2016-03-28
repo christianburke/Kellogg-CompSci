@@ -38,4 +38,4 @@
 --Looking for a good online course so I can learn swift as well
 
 ##Mon. March 28th 
---Working on Swift (Stanford)
+--Working on Swift (Stanford) at 34:54 in first; building calculator
