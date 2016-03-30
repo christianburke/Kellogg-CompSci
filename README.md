@@ -39,3 +39,8 @@
 
 ##Mon. March 28th 
 --Working on Swift (Stanford) at 34:54 in first; building calculator
+
+##Wed. March 30th
+--Continuing Stanford Swift
+
+--Going through more of Python for Finance
