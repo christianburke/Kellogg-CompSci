@@ -44,3 +44,6 @@
 --Continuing Stanford Swift
 
 --Going through more of Python for Finance
+
+##Fri. April 1st
+--Still going through Stanford Swift....
