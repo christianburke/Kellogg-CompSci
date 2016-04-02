@@ -47,3 +47,12 @@
 
 ##Fri. April 1st
 --Still going through Stanford Swift....
+
+##Sat. April 2nd
+--Listened to Jonathan Baird talk in class today
+
+--To be honest, I looked at UVA and U-M's business and CompSci programs for the rest of class
+
+--Will continue to look and go through Python for Finance 
+
+--A double major in CompSci and Economics/Entrepreneurship would be amazing
