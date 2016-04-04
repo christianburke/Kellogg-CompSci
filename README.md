@@ -56,3 +56,6 @@
 --Will continue to look and go through Python for Finance 
 
 --A double major in CompSci and Economics/Entrepreneurship would be amazing
+
+##Mon. April 4th
+--Keep swifting on...
