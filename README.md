@@ -59,3 +59,8 @@
 
 ##Mon. April 4th
 --Keep swifting on...
+
+##Tues. April 5th
+--More swift
+
+--Weird error with a single name function auto-selecting based on input... Really not sure why. Just renamed the function for now.
