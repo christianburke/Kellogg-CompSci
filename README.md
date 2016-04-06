@@ -64,3 +64,8 @@
 --More swift
 
 --Weird error with a single name function auto-selecting based on input... Really not sure why. Just renamed the function for now.
+
+##Wed. April 6th
+--Fine tuned the layout of the calculator app
+
+--Still learning swift
