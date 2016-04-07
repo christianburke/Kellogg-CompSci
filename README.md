@@ -69,3 +69,6 @@
 --Fine tuned the layout of the calculator app
 
 --Still learning swift
+
+##Thurs. April 7th
+--More swift
