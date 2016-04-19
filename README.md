@@ -74,4 +74,7 @@
 --More swift
 
 ##Mon. April 18th
---Back from college trip. Caved and signed up for teamtreehouse because the Stanford videos didn't do enough "teaching" per say
+--Back from college trip. Caved and signed up for Treehouse because the Stanford videos didn't do enough "teaching" per say
+
+##Tues. April 19th
+--Treehouse
