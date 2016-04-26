@@ -84,3 +84,7 @@
 
 ##Mon. April 25th
 --Treehouse
+
+##Tues. April 26th
+--More Treehouse
+--No idea how to program multi-page apps in Swift just yet
