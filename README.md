@@ -88,3 +88,7 @@
 ##Tues. April 26th
 --More Treehouse
 --No idea how to program multi-page apps in Swift just yet
+
+##Wed. April 27th
+--Honestly waiting for the autolayout series to come out for Treehouse
+--Working on figuring out multi-page apps
